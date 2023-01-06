@@ -10,9 +10,10 @@
 Software engineering is just not a thing we do, its a life we live!
 
 - 🔭 I’m currently working on ALX projects plus a few other personal projects that I hope will help me grow in the Development field. 
+- :computer: I am looking forward to collaborating on projects with my peers in the near future.
 
 - 📫 How to reach me: 
-Email: milliemagadi4@gmail.com
+:e-mail: milliemagadi4@gmail.com
 Twitter: MillieMagadi
 - 😄 Pronouns: She
 - ⚡ Fun fact: “Programming today is a race between software engineers striving to build bigger and better idiot-proof programs, and the Universe trying to produce bigger and better idiots. So far, the Universe is winning.”
