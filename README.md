@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Millicent Magadi
 ========================================================================================================================================
 
-Software Developer
+Full Stack Developer
 ------------------
 
 The discovery of code has been an eventful journey that has led me to gaining a deep and keen interest in backend development, though I work on Full Stack projects as well. Exploration of code and the various languages that exist have introduced me to different possibilities and I look forward to working on more projects and providing solutions to real-world problems.
