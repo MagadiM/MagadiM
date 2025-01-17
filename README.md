@@ -9,7 +9,7 @@ The discovery of code has been an eventful journey that has led me to gaining a 
 * 🌍  I'm based in Nairobi, KEN
 * 🖥️  See my portfolio at [Magadi's Works](http://github.com/MagadiM)
 * ✉️  You can contact me at [milliemagadi4@gmail.com](mailto:milliemagadi4@gmail.com)
-* 🚀  I'm currently working on [TeleMed Application](http://github.com/MagadiM)
+* 🚀  I'm currently working on [Mavuno Gain](http://github.com/MagadiM/mavuno-gain)
 * 🧠  I'm learning Dart with Flutter
 * 🤝  I'm open to collaborating on problem solving and open source projects
 
